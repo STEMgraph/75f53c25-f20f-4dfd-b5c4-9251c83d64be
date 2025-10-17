@@ -1,6 +1,7 @@
 <!---
 {
-  "depends_on": ["SSH"],
+  "id": "75f53c25-f20f-4dfd-b5c4-9251c83d64be",
+  "depends_on": "8c79cd1f-f6bd-4930-b62c-b2970c412735",
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-03",
   "keywords": ["SSH", "config", "IdentityFile", "Host alias"]
