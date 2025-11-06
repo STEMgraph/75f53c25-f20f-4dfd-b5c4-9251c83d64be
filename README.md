@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "75f53c25-f20f-4dfd-b5c4-9251c83d64be",
   "depends_on": ["SSH"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-03",
