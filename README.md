@@ -1,6 +1,7 @@
 <!---
 {
   "id": "75f53c25-f20f-4dfd-b5c4-9251c83d64be",
+  "teaches": "Using SSH Config Files to Manage Connections",
   "depends_on": ["SSH"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-03",
